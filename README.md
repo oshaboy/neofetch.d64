@@ -9,4 +9,5 @@ If someone runs this on original hardware. Send me a pic.
 Here are all (1) of the pictures I recieved of it running on original hardware. 
 
 ### Breadbox
-![Credit: u/UKZzHELLRAISER on Reddit](original_hardware/eowx9ybxrrh71.jpg)
+![](original_hardware/eowx9ybxrrh71.jpg)
+Credit: u/UKZzHELLRAISER on Reddit
